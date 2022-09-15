@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\bin\Debug\Porgram.exe.config
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\bin\Debug\Porgram.exe
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\bin\Debug\Porgram.pdb
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\bin\Debug\BoxesProject.dll
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\bin\Debug\DataStructures.dll
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\bin\Debug\BoxesProject.pdb
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\bin\Debug\DataStructures.pdb
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\obj\Debug\Porgram.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\obj\Debug\Porgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\obj\Debug\Porgram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\obj\Debug\Porgram.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\obj\Debug\Porgram.exe
+C:\Users\Administrator\Desktop\BoxesProject\Porgram\obj\Debug\Porgram.pdb

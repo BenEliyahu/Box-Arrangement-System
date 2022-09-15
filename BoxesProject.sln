@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "BoxesProject\Logic.csproj", "{13E93266-3A2A-4AA6-9E33-A68A7A3A23BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{292BD7DB-CEE0-4E46-8581-37F261D93180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boxes", "Boxes\Boxes.csproj", "{AF6DBDE6-AB7E-4B22-814E-AB01376101B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E93266-3A2A-4AA6-9E33-A68A7A3A23BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E93266-3A2A-4AA6-9E33-A68A7A3A23BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E93266-3A2A-4AA6-9E33-A68A7A3A23BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E93266-3A2A-4AA6-9E33-A68A7A3A23BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292BD7DB-CEE0-4E46-8581-37F261D93180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292BD7DB-CEE0-4E46-8581-37F261D93180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292BD7DB-CEE0-4E46-8581-37F261D93180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292BD7DB-CEE0-4E46-8581-37F261D93180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6DBDE6-AB7E-4B22-814E-AB01376101B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6DBDE6-AB7E-4B22-814E-AB01376101B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6DBDE6-AB7E-4B22-814E-AB01376101B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6DBDE6-AB7E-4B22-814E-AB01376101B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5592D9-15D6-427C-99DB-6A5A96A72882}
+	EndGlobalSection
+EndGlobal

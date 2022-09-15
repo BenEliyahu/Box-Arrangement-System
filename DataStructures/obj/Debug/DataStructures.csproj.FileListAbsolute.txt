@@ -1,0 +1,11 @@
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\BoxesProject\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\BoxesProject\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\BoxesProject\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\BoxesProject\DataStructures\obj\Debug\DataStructures.pdb

@@ -1,0 +1,39 @@
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\bin\Debug\Boxes.exe.config
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\bin\Debug\Boxes.exe
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\bin\Debug\Boxes.pdb
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\bin\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\bin\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\bin\Debug\BoxesProject.pdb
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\bin\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\obj\Debug\Boxes.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\obj\Debug\Boxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\obj\Debug\Boxes.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\obj\Debug\Boxes.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\obj\Debug\Boxes.exe
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\Boxes\obj\Debug\Boxes.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\bin\Debug\Boxes.exe.config
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\bin\Debug\Boxes.exe
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\bin\Debug\Boxes.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\bin\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\bin\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\bin\Debug\BoxesProject.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\bin\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\obj\Debug\Boxes.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\obj\Debug\Boxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\obj\Debug\Boxes.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\obj\Debug\Boxes.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\obj\Debug\Boxes.exe
+C:\Users\97250\OneDrive\Desktop\BoxesProject\Boxes\obj\Debug\Boxes.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\bin\Debug\Boxes.exe.config
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\bin\Debug\Boxes.exe
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\bin\Debug\Boxes.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\bin\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\bin\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\bin\Debug\BoxesProject.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\bin\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\obj\Debug\Boxes.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\obj\Debug\Boxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\obj\Debug\Boxes.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\obj\Debug\Boxes.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\obj\Debug\Boxes.exe
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\Boxes\obj\Debug\Boxes.pdb

@@ -1,0 +1,27 @@
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\bin\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\bin\Debug\BoxesProject.pdb
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\bin\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\bin\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\obj\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\Katya\BoxesProject\BoxesProject\obj\Debug\BoxesProject.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\bin\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\bin\Debug\BoxesProject.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\bin\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\bin\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\obj\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\BoxesProject\BoxesProject\obj\Debug\BoxesProject.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\bin\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\bin\Debug\BoxesProject.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\bin\Debug\DataStructures.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\bin\Debug\DataStructures.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\obj\Debug\BoxesProject.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\BoxesProject\BoxesProject\obj\Debug\BoxesProject.pdb
